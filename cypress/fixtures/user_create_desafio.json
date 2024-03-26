@@ -1,0 +1,7 @@
+{
+    "name": "Ravi Felipe",
+    "email": "ravi@email.com.br",
+    "email_invalid": "ravi.12--se12",
+    "password": "123456",
+    "password_invalid": "12345"
+}
